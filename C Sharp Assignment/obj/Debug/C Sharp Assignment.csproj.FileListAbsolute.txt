@@ -1,0 +1,307 @@
+c:\users\user\documents\visual studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List neww\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\User\C Sharp Assignment Link List neww\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List latest\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Sales.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List kiiugugugug\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Menu.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Statistic.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminReport.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List asdacsacdsadas\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EditItem.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\USER\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\User\Desktop\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List current\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\User\Desktop\C# Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\USER\Desktop\13023437-Assignment(Alan Tan Wai Loon)\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\USER\Desktop\latest elearn\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Alan\BCS\BCS YEAR2 SEM5\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\User\Desktop\All University Project\Programming\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe.config
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.exe
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Debug\C Sharp Assignment.pdb
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Admin.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.EndDay.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Login.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.MainForm.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ManageStock.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.exe
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Debug\C Sharp Assignment.pdb

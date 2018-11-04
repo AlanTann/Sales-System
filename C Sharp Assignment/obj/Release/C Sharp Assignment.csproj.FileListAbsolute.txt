@@ -1,0 +1,22 @@
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Release\C Sharp Assignment.exe.config
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Release\C Sharp Assignment.exe
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\bin\Release\C Sharp Assignment.pdb
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.Admin.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.AdminMenu.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.AdminMenuSearch.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.CreateAccount.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.EndDay.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.Login.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.MainForm.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.ManageStock.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.Modify_Quantity.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.ReceiptFoodListReport.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.ReceiptForm.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.ReceiptList.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.Properties.Resources.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.SalesPersonMenu.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C_Sharp_Assignment.TotalProductSaleForm.resources
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C Sharp Assignment.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C Sharp Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C Sharp Assignment.exe
+C:\Users\Alan\Desktop\C# Programming\Assignment\13020011_Jeffrey Tan Assignment\C Sharp Assignment Link List source code\C Sharp Assignment\obj\Release\C Sharp Assignment.pdb
