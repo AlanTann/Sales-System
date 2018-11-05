@@ -4,7 +4,7 @@ Sales System build with C#
 University Assignment: Sales System
 
 Software Use:
-1. Microsoft Visual Studio
+1. Visual Studio 2017
 
 Database:
 1. Place the SampleDatabase.mdf and SampleDatabase_log.mdf in your D drive.
